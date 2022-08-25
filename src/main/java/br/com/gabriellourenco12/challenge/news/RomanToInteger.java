@@ -30,7 +30,7 @@ public class RomanToInteger {
         map.put('M', 1000);
     }
 
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         RomanToInteger romanToInteger = new RomanToInteger();
         String romanStr= "XXIX";
