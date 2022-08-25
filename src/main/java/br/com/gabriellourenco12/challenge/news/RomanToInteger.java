@@ -1,4 +1,4 @@
-package br.com.gabriellourenco12.challengeNewUsers;
+package br.com.gabriellourenco12.challenge.news;
 
 import java.util.HashMap;
 import java.util.Map;
