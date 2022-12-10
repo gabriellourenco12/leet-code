@@ -1,3 +1,4 @@
 # Leet Code
 ## Code challenges resolved:
-Roman to Int
+- Roman to Int
+- Is Palindrome
